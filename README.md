@@ -1,2 +1,3 @@
 # Automat-Vending-machine
- CST-238-Project-1-Automat-Vending-machine
+ CST-238-Data-Structures<br>
+ Project1 Automat-Vending-machine
